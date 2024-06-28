@@ -1,3 +1,5 @@
+@import "//at.alicdn.com/t/font_2264842_b004iy0kk2b.css";
+
 /* 页脚与头图透明 */
 #footer {
     background: transparent !important;
@@ -261,4 +263,3 @@
   -ms-transform: scale(0.5);
   -o-transform: scale(0.5);
 }
-
